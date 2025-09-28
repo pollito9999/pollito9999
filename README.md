@@ -28,6 +28,7 @@
 <br/>
 
 ---
-<img align="center" alt="GIF" height="160px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/madzyy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/madzyy.gif" />
+<img align="center" alt="GIF" height="160px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/cylaa.gif" />
 
 Last edited on: 28/09/2025
