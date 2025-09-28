@@ -1,6 +1,4 @@
-### Hi there 👋 I'm [pollito!](https://github.com/Danushka2/Danushka2/)
-
-<img align="right" alt="GIF" height="160px" src="cyclaa.gif" />
+### Hi there 👋 I'm [pollito!](https://github.com/pollito9999/pollito9999/)
 
 ## I'm a Associate Software Engineer at Acentura
 
@@ -30,5 +28,6 @@
 <br/>
 
 ---
+<img align="center" alt="GIF" height="160px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/cylaa.gif" />
 
 Last edited on: 28/09/2025
