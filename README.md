@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [pollito!](https://github.com/Danushka2/Danushka2/)
 
-<img align="right" alt="GIF" height="160px" src="assets/mi-gif.gif" />
+<img align="right" alt="GIF" height="160px" src="cyclaa.gif" />
 
 ## I'm a Associate Software Engineer at Acentura
 
