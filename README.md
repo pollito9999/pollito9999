@@ -2,7 +2,7 @@
 
 ## I'm a Associate Software Engineer at Acentura
 
-- 👨‍💻 I’m currently working on my own websites and maybe a possible AI
+- 👨‍💻 I’m currently working on my own websites
 - 📚 Learning javascript, c++ and html and css 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
