@@ -28,7 +28,7 @@
 <br/>
 
 ---
-<img align="center" alt="GIF" height="160px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/idk.jpg" />
 <img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/cylaa.gif" />
+<img align="center" alt="GIF" height="170px" src="https://raw.githubusercontent.com/pollito9999/pollito9999/main/idk.jpg" />
 
-Last edited on: 28/09/2025
+Last edited on: 25/10/2025
